@@ -1,5 +1,4 @@
 # CSN-232-OS-Project
-Project No: 8 
 ### Objective:
 Chose any open source Linux operating system and make some changes to its user
 interface (like GUI) such that it appears as shown below with the features mentioned
